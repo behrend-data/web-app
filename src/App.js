@@ -1,10 +1,27 @@
 import './App.css';
 import portrait from './me.jpg';
-import Navigation from './container/navigation';
+import Navigation from './component/navigation';
 import React, { useState } from 'react';
 
 function App() {
-    const [items, setItems] = useState(['home', 'about', 'contact', 'CV']);
+    const [items] = useState([
+        {
+            name: 'Home',
+            hashValue: 'home'
+        },
+        {
+            name: 'About',
+            hashValue: 'about'
+        },
+        {
+            name: 'Contact',
+            hashValue: 'contact'
+        },
+        {
+            name: 'CV.',
+            hashValue: 'cv'
+        }
+    ]);
 
     return (
         <div className="app">
