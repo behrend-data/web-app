@@ -1,32 +1,15 @@
 import './App.css';
 import portrait from './me.jpg';
-import Scrollspy from 'react-scrollspy';
+import Navigation from './container/navigation';
+import React, { useState } from 'react';
 
 function App() {
+    const [items, setItems] = useState(['home', 'about', 'contact', 'CV']);
+
     return (
         <div className="app">
             <div className="container d-flex w-100 h-100 p-3 mx-auto flex-column">
-                <nav className="mb-auto fixed-top container navbar">
-                    <h3 className="float-md-start mb-0 firm">Behrend Data</h3>
-                    <Scrollspy
-                        className="nav nav-masthead justify-content-center float-md-end"
-                        items={['home', 'about', 'contact', 'cv']}
-                        currentClassName="active"
-                    >
-                        <a className="nav-link" href="#home">
-                            Home
-                        </a>
-                        <a className="nav-link" href="#about">
-                            About
-                        </a>
-                        <a className="nav-link" href="#contact">
-                            Contact
-                        </a>
-                        <a className="nav-link" href="#cv">
-                            CV.
-                        </a>
-                    </Scrollspy>
-                </nav>
+                <Navigation items={items}></Navigation>
                 <section className="max-height main-section" id="home">
                     <h1>Cover your page.</h1>
                     <p className="lead">
