@@ -33,11 +33,7 @@ function App() {
                         Cover is a one-page template for building simple and beautiful home pages. Download, edit the
                         text, and add your own fullscreen background photo to make it your own.
                     </p>
-                    <p className="lead">
-                        <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white">
-                            Learn more
-                        </a>
-                    </p>
+                    <p className="lead">fdsfdsfdsfsdfs</p>
                 </section>
                 <section className="max-height main-section" id="about">
                     <h1>About</h1>
@@ -47,11 +43,7 @@ function App() {
                         cordially behaviour can attempted estimable. Trees delay fancy noise manor do as an small.
                         Felicity now law securing breeding likewise extended and. Roused either who favour why ham.{' '}
                     </p>
-                    <p className="lead">
-                        <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white">
-                            Learn more
-                        </a>
-                    </p>
+                    <p className="lead">fdsfdsfdsfds</p>
                 </section>
                 <section className="max-height main-section" id="contact">
                     <h1>Contact</h1>
@@ -60,11 +52,7 @@ function App() {
                         cordially behaviour can attempted estimable. Trees delay fancy noise manor do as an small.
                         Felicity now law securing breeding likewise extended and. Roused either who favour why ham.{' '}
                     </p>
-                    <p className="lead">
-                        <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white">
-                            Learn more
-                        </a>
-                    </p>
+                    <p className="lead">dsfdsfdsfdsf</p>
                 </section>
                 <section className="max-height main-section" id="cv">
                     <h1>CV.</h1>
@@ -74,11 +62,7 @@ function App() {
                         cordially behaviour can attempted estimable. Trees delay fancy noise manor do as an small.
                         Felicity now law securing breeding likewise extended and. Roused either who favour why ham.{' '}
                     </p>
-                    <p className="lead">
-                        <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white">
-                            Learn more
-                        </a>
-                    </p>
+                    <p className="lead">fddsfdsfdsfs</p>
                 </section>
             </div>
         </div>
