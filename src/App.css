@@ -13,7 +13,7 @@
 .page-heading {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.5);
-    font-size: 5em;
+    font-size: 4em;
     text-align: left;
     padding-right: 3em;
 }
@@ -23,7 +23,7 @@
     color: aliceblue;
     font-style: italic;
     text-align: right;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .main-section {
