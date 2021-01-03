@@ -30,9 +30,9 @@ function App() {
                         <a className="nav-link" href="#contact">
                             Contact
                         </a>
-                        <a className="nav-link" href="#cv">
+                        {/* <a className="nav-link" href="#cv">
                             CV.
-                        </a>
+                        </a> */}
                         <img
                             src={LinkedinLogo}
                             alt="my linkedin profile"
@@ -50,9 +50,9 @@ function App() {
                 <section className="max-height main-section" id="contact">
                     <Contact></Contact>
                 </section>
-                <section className="max-height main-section" id="cv">
+                {/* <section className="max-height main-section" id="cv">
                     <Cv></Cv>
-                </section>
+                </section> */}
             </div>
         </div>
     );
