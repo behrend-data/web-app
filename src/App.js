@@ -4,7 +4,7 @@ import React from 'react';
 import About from './sections/about';
 import Home from './sections/home';
 import Contact from './sections/contact';
-import Cv from './sections/cv';
+// import Cv from './sections/cv';
 import LinkedinLogo from './linkedin-logo.png';
 
 function App() {
