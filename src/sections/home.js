@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div class="container d-flex p-2 flex-row home">
-            <div className="page-heading align-left">SOFTWARE CONSULTANT WITH A VARIETY OF SKILLS</div>
+            <div className="page-heading align-left">SOFTWARE CONSULTANT WITH A WIDE VARIETY OF SKILLS</div>
             <div className="flex-column">
                 <div className="page-text align-right">
                     Provide consulting services that help companies build software in the cloud or on-premise.
