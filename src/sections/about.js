@@ -3,7 +3,7 @@ import Portrait from './../me.jpg';
 
 const About = () => {
     return (
-        <div class="container d-flex p-2 flex-column home">
+        <div className="container d-flex p-2 flex-column home">
             <div className="page-header align-center">
                 <img src={Portrait} className="portrait" alt="me" />
             </div>
