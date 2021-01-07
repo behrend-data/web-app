@@ -23,7 +23,7 @@ function App() {
                         <ScrollspyNav
                             scrollTargetIds={['home', 'about', 'contact']}
                             activeNavClass="active"
-                            scrollDuration="100"
+                            scrollDuration="1000"
                         >
                             <ui className="nav navbar">
                                 <li className="nav-item">
