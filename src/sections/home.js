@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div class="container d-flex p-2 flex-row home">
+        <div className="container d-flex p-2 flex-row home">
             <div className="page-heading align-left">SOFTWARE CONSULTANT WITH A WIDE VARIETY OF SKILLS</div>
             <div className="flex-column">
                 <div className="page-text align-right">
