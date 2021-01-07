@@ -87,11 +87,6 @@ html {
 }
 
 .nav-link:hover,
-.nav-link:focus {
-    color: #fff;
-    border-bottom-color: rgba(255, 255, 255, 0.25);
-}
-
 .active {
     color: #fff;
     border-bottom-color: #fff;
